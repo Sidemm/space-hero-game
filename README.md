@@ -24,4 +24,5 @@ program using these tools because we wanted to write our own segmentation algori
 wanted our application to be more accessible as these tools are rare.
 
 
+![image](https://github.com/user-attachments/assets/c3525b83-2266-4c77-ab3b-b5eaee3ef77a)
 
